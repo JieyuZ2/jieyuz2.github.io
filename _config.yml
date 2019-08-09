@@ -1,12 +1,12 @@
 # Site settings
-title: Jiaming Shen
-email: js2@illinois.edu
+title: Jieyu Zhang
+email: jieyuz2@illinois.edu
 # description: Keep it Simple
-description: So we beat on, boats against the current, borne back ceaselessly into the past.
+# description: So we beat on, boats against the current, borne back ceaselessly into the past.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: mickeyjs6
-github_username:  mickeystroller
+# twitter_username: mickeyjs6
+github_username:  JieyuZ2
 
 # Build settings
 markdown: kramdown
@@ -17,10 +17,10 @@ gems:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Jiaming Shen"
+resume_name:                    "Jieyu Zhang"
 resume_title:                   "Computer Scientist"
 resume_contact_email:
-  "mickesyjm@gmail.com"
+  "jieyuz2@illinois.edu"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -43,13 +43,9 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/mickeystroller"
-  resume_twitter_url:           "https://twitter.com/mickeyjs6"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  resume_facebook_url:          "https://www.facebook.com/profile.php?id=100005359005077"
-  resume_linkedin_url:          "https://www.linkedin.com/in/jiaming-shen-08186710a/"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "mickeystroller.github.io"
+  resume_github_url:            "https://github.com/JieyuZ2"
+  resume_linkedin_url:          "https://www.linkedin.com/in/jieyu-zhang-3baaa8154/"
+  resume_website_url:           "jieyuz2.github.io"
 
 # Design settings
 resume_theme:                   default
