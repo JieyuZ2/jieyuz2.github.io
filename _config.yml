@@ -45,7 +45,7 @@ resume_section_associations:    true
 resume_social_links:
   resume_github_url:            "https://github.com/JieyuZ2"
   resume_linkedin_url:          "https://www.linkedin.com/in/jieyu-zhang-3baaa8154/"
-  resume_website_url:           "jieyuz2.github.io"
+  resume_website_url:           "https://jieyuz2.github.io"
 
 # Design settings
 resume_theme:                   default
