@@ -34,7 +34,7 @@ I'm happy to mentor a few students on research and especially encourage students
 ### Data-centric AI
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
-<br><a href="https://www.salesforce.com/blog/provision-multimodal-data-generation/" style="color: red; text-decoration: underline">Blog at Salesforce Research</a>
+<br><a href="https://www.salesforce.com/blog/provision-multimodal-data-generation/" style="color: red; text-decoration: underline">Blog at Salesforce Research</a> | <a href="https://venturebeat.com/data-infrastructure/breaking-the-data-bottleneck-salesforces-provision-speeds-multimodal-ai-training-with-image-scene-graphs/" style="color: red; text-decoration: underline">Blog at VentureBeat</a> | <a href="https://www.marktechpost.com/2025/01/11/provision-a-scalable-programmatic-approach-to-vision-centric-instruction-data-for-multimodal-language-models/" style="color: red; text-decoration: underline">Blog at MarkTechPost</a>
 - [Task Me Anything](https://arxiv.org/abs/2406.11775)
 <br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
 <br><ins>*NeurIPS 2024*</ins> | <ins>*Video-Language Models @ NeurIPS 2024*</ins>  <font color=red>Oral Presentation</font>
