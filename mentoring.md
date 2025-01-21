@@ -3,8 +3,9 @@
 - Ziqi Gao
 - Weikai Huang
 - Ben Caffee
-- Rishi Bathina
 - Zhengyu Hu
+- Rishi Bathina
+<br>[Undergrad@UW -> Google]
 - Chengkai Hou
 <br>[MS@Jilin University -> PhD@PKU]
 - Linxin Song 
