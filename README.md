@@ -6,6 +6,9 @@ My research is supported by the following fellowships:
 - [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track)
 - [OpenAI Superalignment Fellowship](https://openai.com/blog/superalignment-fast-grants).
 
+I was selected as 
+- the 2025 ML and Systems Rising Stars
+
 I'm passionate about mentoring and teaching. I was 
 - co-instructor of **CSE 455: Computer Vision (undergrad)**
 - TA of **CS 344: Introduction to Data Management (undergrad)**
