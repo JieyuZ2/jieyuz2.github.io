@@ -4,7 +4,7 @@ I'm a 5th year Ph.D. student in Computer Science at the University of Washington
 
 My research is supported by the following fellowships:
 - [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track)
-- [OpenAI Superalignment Fellowship](https://openai.com/blog/superalignment-fast-grants).
+- [OpenAI Superalignment Fellowship](https://openai.com/blog/superalignment-fast-grants)
 
 I was selected as 
 - the 2025 ML and Systems Rising Stars
@@ -87,6 +87,7 @@ I'm happy to mentor a few students on research and especially encourage students
 
 
 ## 🏅 Awards
+- ML and Systems Rising Stars
 - OpenAI Superalignment Fellowship
 - Apple Scholar in AI/ML PhD Fellowship
 - LLM Agents @ ICLR 2024 Best Paper Award
@@ -96,7 +97,8 @@ I'm happy to mentor a few students on research and especially encourage students
 - UIUC John R. Pasta Outstanding Undergraduate Award
 
 ## 📍 Professional Services
-- Leading organizer of **Synthetic Data for Computer Vision Workshop @ CVPR 2024.** [[website](https://syndata4cv.github.io/)]
+- Leading organizer of **Synthetic Data for Computer Vision Workshop @ CVPR 2024/2025.** [[website](https://syndata4cv.github.io/)]
+- PC/AC: ARR, COLM
 - Reviewer: NeurIPS, ICML, ICLR, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, AISTATS, KDD, LOG.
 
 ## 🎓 Education
