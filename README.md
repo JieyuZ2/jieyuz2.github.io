@@ -1,6 +1,9 @@
 I'm a 5th year Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
-**Research Interests**: My current research interests are **interactive and data-centric AI/ML** with an emphasis on **faithful evaluation** and **effort-light approaches** with applications in multimodal models, natural language processing, computer vision, science, etc. I have contributed to many exciting projects including [AutoGen](https://microsoft.github.io/autogen/0.2/)/[AG2](https://ag2.ai/), [DataComp/DataComp-LM](https://www.datacomp.ai/), and [BLIP3](https://huggingface.co/papers/2408.08872).
+**Research Interests**: My current research interests are in data-centric AI with applications across multimodal models, computer vision, natural language processing, science, and more. Currently, I'm working on three interconnected directions under data-centric AI:
+- Dynamic Evaluation: Designing systems and algorithms for continuous and dynamic model evaluation beyond static benchmarks.
+- Data Synthesis and Collection: Investigating best practices for synthesizing and collecting data for various applications, including the creation and enhancement of foundation models.
+- Data Utilization and Representation: Developing methods and models that represent and utilize data efficiently and effectively.
 
 My research is supported by the following fellowships:
 - [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track)
@@ -22,15 +25,18 @@ I'm happy to mentor a few students on research and especially encourage students
 ## 📝 Selected Research
 (\* denotes equal contribution)
 
+### Dynamic Evaluation
+- [Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base]()
+<br>Linxin Song, Xuwei Ding, **Jieyu Zhang**, Taiwei Shi, Ryotaro Shimizu, Rahul Gupta, Yang Liu, Jian Kang, Jieyu Zhao.
+- [Task Me Anything](https://arxiv.org/abs/2406.11775)
+<br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
+<br><ins>*NeurIPS 2024*</ins> | <ins>*Video-Language Models @ NeurIPS 2024*</ins>  <font color=red>Oral Presentation</font>
+<br><a href="https://snorkel.ai/blog/task-me-anything-innovating-multimodal-model-benchmarks/" style="color: red; text-decoration: underline">Blog at Snorkel AI</a> | <a href="https://www.youtube.com/watch?v=J3ECnV8Yc_g" style="color: red; text-decoration: underline">Talk at Snorkel AI</a>
 
 ### Data Synthesis
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
 <br><a href="https://www.salesforce.com/blog/provision-multimodal-data-generation/" style="color: red; text-decoration: underline">Blog at Salesforce Research</a> | <a href="https://venturebeat.com/data-infrastructure/breaking-the-data-bottleneck-salesforces-provision-speeds-multimodal-ai-training-with-image-scene-graphs/" style="color: red; text-decoration: underline">VentureBeat</a> | <a href="https://www.marktechpost.com/2025/01/11/provision-a-scalable-programmatic-approach-to-vision-centric-instruction-data-for-multimodal-language-models/" style="color: red; text-decoration: underline">MarkTechPost</a>
-- [Task Me Anything](https://arxiv.org/abs/2406.11775)
-<br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
-<br><ins>*NeurIPS 2024*</ins> | <ins>*Video-Language Models @ NeurIPS 2024*</ins>  <font color=red>Oral Presentation</font>
-<br><a href="https://snorkel.ai/blog/task-me-anything-innovating-multimodal-model-benchmarks/" style="color: red; text-decoration: underline">Blog at Snorkel AI</a> | <a href="https://www.youtube.com/watch?v=J3ECnV8Yc_g" style="color: red; text-decoration: underline">Talk at Snorkel AI</a>
 - [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895)
 <br>Yue Yu\*, Yuchen Zhuang\*, **Jieyu Zhang\***, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.
 <br><ins>*NeurIPS 2023*</ins>
