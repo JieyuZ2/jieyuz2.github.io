@@ -1,9 +1,9 @@
 I'm a 5th year Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
 **Research Interests**: My current research interests are in data-centric AI with applications across multimodal models, computer vision, natural language processing, science, and more. Currently, I'm working on three interconnected directions under data-centric AI:
-- Dynamic Evaluation: Designing systems and algorithms for continuous and dynamic model evaluation beyond static benchmarks.
-- Data Synthesis and Collection: Investigating best practices for synthesizing and collecting data for various applications, including the creation and enhancement of foundation models.
-- Data Utilization and Representation: Developing methods and models that represent and utilize data efficiently and effectively.
+- **Dynamic Evaluation**: Designing systems and algorithms for continuous and dynamic model evaluation beyond static benchmarks.
+- **Data Synthesis and Collection**: Investigating best practices for synthesizing and collecting data for various applications, including the creation and enhancement of foundation models.
+- **Data Utilization and Representation**: Developing methods and models that represent and utilize data efficiently and effectively.
 
 My research is supported by the following fellowships:
 - [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track)
