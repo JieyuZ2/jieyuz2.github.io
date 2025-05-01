@@ -71,6 +71,9 @@ I'm happy to mentor a few students on research and especially encourage students
 <br><ins>*NeurIPS 2021*</ins> <font color=red>Oral Presentation</font>
 
 ### Agentic AI
+- [Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems]()
+<br>Shaokun Zhang\*, Ming Yin\*, **Jieyu Zhang**, Jiale Liu, Zhiguang Han, Jingyang Zhang, Beibin Li, Chi Wang, Huazheng Wang, Yiran Chen, Qingyun Wu.
+<br><ins>*ICML 2025*</ins> <font color=red>Spotlight</font>
 - [Offline Training of Language Model Agents with Functions as Learnable Weights](https://arxiv.org/abs/2402.11359)
 <br>Shaokun Zhang\*, **Jieyu Zhang\***, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu.
 <br><ins>*ICML 2024*</ins>
