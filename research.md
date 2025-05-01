@@ -13,15 +13,18 @@
 ****
 
 ### 2025
+- [Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems]()
+<br>Shaokun Zhang\*, Ming Yin\*, **Jieyu Zhang**, Jiale Liu, Zhiguang Han, Jingyang Zhang, Beibin Li, Chi Wang, Huazheng Wang, Yiran Chen, Qingyun Wu.
+<br><ins>*ICML 2025*</ins> <font color=red>Spotlight</font>
 - [Language Model Preference Evaluation with Multiple Weak Evaluators](https://arxiv.org/abs/2410.12869)
 <br>Zhengyu Hu=, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Hui Xiong, Ranjay Krishna.
-<br>*DATA-FM@ICLR 2025*
+<br>*DATA-FM @ ICLR 2025*
 - [EcoAct: Economic Agent Determines When to Register What Action](https://arxiv.org/abs/2411.01643)
 <br>Shaokun Zhang, **Jieyu Zhang**, Dujian Ding, Mirian Hipolito Garcia, Ankur Mallick, Daniel Madrigal, Menglin Xia, Victor Rühle, Qingyun Wu, Chi Wang.
-<br>*Reasoning and Planning for LLMs@ICLR 2025*
+<br>*Reasoning and Planning for LLMs @ ICLR 2025*
 - [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action](https://arxiv.org/abs/2412.05479)
 <br>Zixian Ma, Jianguo Zhang, Zhiwei Liu, **Jieyu Zhang**, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, Huan Wang, Caiming Xiong, Ranjay Krishna, Silvio Savarese.
-<br>*Reasoning and Planning for LLMs@ICLR 2025*
+<br>*Reasoning and Planning for LLMs @ ICLR 2025*
 
 ****
 
