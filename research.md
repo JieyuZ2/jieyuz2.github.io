@@ -5,8 +5,6 @@
 <br>Linxin Song, Xuwei Ding, **Jieyu Zhang**, Taiwei Shi, Ryotaro Shimizu, Rahul Gupta, Yang Liu, Jian Kang, Jieyu Zhao.
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
-- [Generate Any Scene: Evaluating and Improving Text-to-Vision Generation with Scene Graph Programming](https://arxiv.org/abs/2412.08221)
-<br>Ziqi Gao\*=, Weikai Huang\*=, **Jieyu Zhang**, Aniruddha Kembhavi, Ranjay Krishna.
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
 <br>Linxin Song\*, Jiale Liu\*, **Jieyu Zhang**, Shaokun Zhang, Ao Luo, Shijian Wang, Qingyun Wu, Chi Wang.
 
@@ -16,6 +14,9 @@
 - [Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems](https://arxiv.org/abs/2505.00212)
 <br>Shaokun Zhang\*, Ming Yin\*, **Jieyu Zhang**, Jiale Liu, Zhiguang Han, Jingyang Zhang, Beibin Li, Chi Wang, Huazheng Wang, Yiran Chen, Qingyun Wu.
 <br><ins>*ICML 2025*</ins> <font color=red>Spotlight</font>
+- [Generate Any Scene: Evaluating and Improving Text-to-Vision Generation with Scene Graph Programming](https://arxiv.org/abs/2412.08221)
+<br>Ziqi Gao\*=, Weikai Huang\*=, **Jieyu Zhang**, Aniruddha Kembhavi, Ranjay Krishna.
+<br>*SynData4CV @ CVPR 2025*
 - [Language Model Preference Evaluation with Multiple Weak Evaluators](https://arxiv.org/abs/2410.12869)
 <br>Zhengyu Hu=, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Hui Xiong, Ranjay Krishna.
 <br>*DATA-FM @ ICLR 2025*
