@@ -1,9 +1,10 @@
 ## Mentees
 - Daniel Ogbu
-- Ziqi Gao
 - Weikai Huang
 - Ben Caffee
 - Zhengyu Hu
+- Ziqi Gao
+<br>[MS@UW -> PYI@AI2]
 - Rishi Bathina
 <br>[Undergrad@UW -> Google]
 - Chengkai Hou
