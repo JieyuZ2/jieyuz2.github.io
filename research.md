@@ -14,6 +14,9 @@
 - [Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems](https://arxiv.org/abs/2505.00212)
 <br>Shaokun Zhang\*, Ming Yin\*, **Jieyu Zhang**, Jiale Liu, Zhiguang Han, Jingyang Zhang, Beibin Li, Chi Wang, Huazheng Wang, Yiran Chen, Qingyun Wu.
 <br><ins>*ICML 2025*</ins> <font color=red>Spotlight</font>
+- [H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos](https://arxiv.org/abs/2505.11920)
+<br>Guangrun Li\*, Yaoxu Lyu\*, Zhuoyang Liu\*, Chengkai Hou, Yinda Xu, **Jieyu Zhang**, Shanghang Zhang.
+<br>*SynData4CV @ CVPR 2025*
 - [Generate Any Scene: Evaluating and Improving Text-to-Vision Generation with Scene Graph Programming](https://arxiv.org/abs/2412.08221)
 <br>Ziqi Gao\*=, Weikai Huang\*=, **Jieyu Zhang**, Aniruddha Kembhavi, Ranjay Krishna.
 <br>*SynData4CV @ CVPR 2025*
