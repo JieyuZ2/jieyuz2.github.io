@@ -2,8 +2,8 @@ I'm a 5th year Ph.D. student in Computer Science at the University of Washington
 
 **Research Interests**: My current research interests are in data-centric AI with applications across multimodal models, computer vision, natural language processing, science, and more. Currently, I'm working on three interconnected directions under data-centric AI:
 - **Dynamic Evaluation**: Designing systems and algorithms for continuous and dynamic model evaluation beyond static benchmarks.
-- **Data Synthesis and Collection**: Investigating best practices for synthesizing and collecting data for various applications, including the creation and enhancement of foundation models.
-- **Data Utilization and Representation**: Developing methods and models that represent and utilize data efficiently and effectively.
+- **Data Synthesis/Collection**: Investigating best practices for synthesizing and collecting data for various applications, including the creation and enhancement of foundation models.
+- **Data Utilization**: Developing methods and models that represent and utilize data efficiently and effectively.
 
 My research is supported by the following fellowships:
 - [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track)
@@ -37,6 +37,9 @@ I'm happy to mentor a few students on research and especially encourage students
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
 <br><a href="https://www.salesforce.com/blog/provision-multimodal-data-generation/" style="color: red; text-decoration: underline">Blog at Salesforce Research</a> | <a href="https://venturebeat.com/data-infrastructure/breaking-the-data-bottleneck-salesforces-provision-speeds-multimodal-ai-training-with-image-scene-graphs/" style="color: red; text-decoration: underline">VentureBeat</a> | <a href="https://www.marktechpost.com/2025/01/11/provision-a-scalable-programmatic-approach-to-vision-centric-instruction-data-for-multimodal-language-models/" style="color: red; text-decoration: underline">MarkTechPost</a>
+- [H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos](https://arxiv.org/abs/2505.11920)
+<br>Guangrun Li\*, Yaoxu Lyu\*, Zhuoyang Liu\*, Chengkai Hou, Yinda Xu, **Jieyu Zhang**, Shanghang Zhang.
+<br>*SynData4CV @ CVPR 2025*
 - [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895)
 <br>Yue Yu\*, Yuchen Zhuang\*, **Jieyu Zhang\***, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.
 <br><ins>*NeurIPS 2023*</ins>
