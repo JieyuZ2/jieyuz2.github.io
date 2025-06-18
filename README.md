@@ -65,7 +65,7 @@ I'm happy to mentor a few students on research and especially encourage students
 
 ### Data Labeling
 - [Language Model Preference Evaluation with Multiple Weak Evaluators](https://arxiv.org/abs/2410.12869)
-<br>Zhengyu Hu=, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Hui Xiong, Ranjay Krishna.
+<br>Zhengyu Hu, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Hui Xiong, Ranjay Krishna.
 <br>*DATA-FM@ICLR 2025*
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang\***, Linxin Song\*, Alexander Ratner.
