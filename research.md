@@ -3,8 +3,6 @@
 ### Preprint
 - [SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding]()
 <br>Weikai Huang=, **Jieyu Zhang**, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Ranjay Krishna.
-- [Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base](https://arxiv.org/abs/2503.23361)
-<br>Linxin Song, Xuwei Ding, **Jieyu Zhang**, Taiwei Shi, Ryotaro Shimizu, Rahul Gupta, Yang Liu, Jian Kang, Jieyu Zhao.
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
@@ -13,7 +11,9 @@
 ****
 
 ### 2025
-
+- [Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base](https://arxiv.org/abs/2503.23361)
+<br>Linxin Song, Xuwei Ding, **Jieyu Zhang**, Taiwei Shi, Ryotaro Shimizu, Rahul Gupta, Yang Liu, Jian Kang, Jieyu Zhao.
+<br><ins>*COLM 2025*</ins>
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
 <br><ins>*ICCV 2025*</ins>
