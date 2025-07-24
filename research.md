@@ -11,12 +11,12 @@
 ****
 
 ### 2025
-- [Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base](https://arxiv.org/abs/2503.23361)
-<br>Linxin Song, Xuwei Ding, **Jieyu Zhang**, Taiwei Shi, Ryotaro Shimizu, Rahul Gupta, Yang Liu, Jian Kang, Jieyu Zhao.
-<br>*COLM 2025*
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
 <br>*ICCV 2025*  <font color=red>Highlight</font>
+- [Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base](https://arxiv.org/abs/2503.23361)
+<br>Linxin Song, Xuwei Ding, **Jieyu Zhang**, Taiwei Shi, Ryotaro Shimizu, Rahul Gupta, Yang Liu, Jian Kang, Jieyu Zhao.
+<br>*COLM 2025*
 - [Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems](https://arxiv.org/abs/2505.00212)
 <br>Shaokun Zhang\*, Ming Yin\*, **Jieyu Zhang**, Jiale Liu, Zhiguang Han, Jingyang Zhang, Beibin Li, Chi Wang, Huazheng Wang, Yiran Chen, Qingyun Wu.
 <br>*ICML 2025* <font color=red>Spotlight</font>
