@@ -38,7 +38,7 @@ I'm happy to mentor a few students on research and especially encourage students
 ### Data Utilization
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
-<br>*ICCV 2025* <font color=red>Highlight</font>
+<br><ins>*ICCV 2025*</ins> <font color=red>Highlight</font>
 
 ### Data Synthesis
 - [SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding]()
@@ -48,7 +48,7 @@ I'm happy to mentor a few students on research and especially encourage students
 <br><a href="https://www.salesforce.com/blog/provision-multimodal-data-generation/" style="color: red; text-decoration: underline">Blog at Salesforce Research</a> | <a href="https://venturebeat.com/data-infrastructure/breaking-the-data-bottleneck-salesforces-provision-speeds-multimodal-ai-training-with-image-scene-graphs/" style="color: red; text-decoration: underline">VentureBeat</a> | <a href="https://www.marktechpost.com/2025/01/11/provision-a-scalable-programmatic-approach-to-vision-centric-instruction-data-for-multimodal-language-models/" style="color: red; text-decoration: underline">MarkTechPost</a>
 - [H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos](https://arxiv.org/abs/2505.11920)
 <br>Guangrun Li\*, Yaoxu Lyu\*, Zhuoyang Liu\*, Chengkai Hou, Yinda Xu, **Jieyu Zhang**, Shanghang Zhang.
-<br>*SynData4CV @ CVPR 2025*
+<br><ins>*SynData4CV @ CVPR 2025*<ins>
 - [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895)
 <br>Yue Yu\*, Yuchen Zhuang\*, **Jieyu Zhang\***, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.
 <br><ins>*NeurIPS 2023*</ins>
@@ -59,7 +59,7 @@ I'm happy to mentor a few students on research and especially encourage students
 <br><ins>*NeurIPS 2023*</ins>
 - [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
 <br>DataComp Team.
-<br>*NeurIPS 2023* <font color=red>Oral Presentation</font>
+<br><ins>*NeurIPS 2023*<ins> <font color=red>Oral Presentation</font>
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br><ins>*NeurIPS 2023*</ins>
@@ -68,7 +68,7 @@ I'm happy to mentor a few students on research and especially encourage students
 ### Data Labeling
 - [Language Model Preference Evaluation with Multiple Weak Evaluators](https://arxiv.org/abs/2410.12869)
 <br>Zhengyu Hu, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Hui Xiong, Ranjay Krishna.
-<br>*DATA-FM@ICLR 2025*
+<br><ins>*DATA-FM@ICLR 2025*<ins>
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang\***, Linxin Song\*, Alexander Ratner.
 <br><ins>*AISTATS 2023*</ins>
@@ -91,7 +91,7 @@ I'm happy to mentor a few students on research and especially encourage students
 <br><ins>*ICML 2024*</ins>
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
-<br>*LLM Agents @ ICLR 2024*
+<br><ins>*LLM Agents @ ICLR 2024*<ins>
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
 <br><ins>*COLM 2024*</ins> | <ins>*LLM Agents @ ICLR 2024*</ins> 🏆 <font color=red>Best Paper</font>
