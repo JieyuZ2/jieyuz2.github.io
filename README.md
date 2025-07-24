@@ -38,7 +38,7 @@ I'm happy to mentor a few students on research and especially encourage students
 ### Data Utilization
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
-<br><ins>*ICCV 2025* <font color=red>Highlight</ins>
+<br>*ICCV 2025* <font color=red>Highlight</font>
 
 ### Data Synthesis
 - [SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding]()
