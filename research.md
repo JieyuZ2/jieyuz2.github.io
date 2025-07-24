@@ -16,25 +16,25 @@
 <br><ins>*COLM 2025*</ins>
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
-<br><ins>*ICCV 2025*  <font color=red>Highlight</ins>
+<br><ins>*ICCV 2025*</ins>  <font color=red>Highlight</ins>
 - [Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems](https://arxiv.org/abs/2505.00212)
 <br>Shaokun Zhang\*, Ming Yin\*, **Jieyu Zhang**, Jiale Liu, Zhiguang Han, Jingyang Zhang, Beibin Li, Chi Wang, Huazheng Wang, Yiran Chen, Qingyun Wu.
 <br><ins>*ICML 2025*</ins> <font color=red>Spotlight</font>
 - [H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos](https://arxiv.org/abs/2505.11920)
 <br>Guangrun Li\*, Yaoxu Lyu\*, Zhuoyang Liu\*, Chengkai Hou, Yinda Xu, **Jieyu Zhang**, Shanghang Zhang.
-<br>*SynData4CV @ CVPR 2025*
+<br><ins>*SynData4CV @ CVPR 2025*</ins>
 - [Generate Any Scene: Evaluating and Improving Text-to-Vision Generation with Scene Graph Programming](https://arxiv.org/abs/2412.08221)
 <br>Ziqi Gao\*=, Weikai Huang\*=, **Jieyu Zhang**, Aniruddha Kembhavi, Ranjay Krishna.
-<br>*SynData4CV @ CVPR 2025*
+<br><ins>*SynData4CV @ CVPR 2025*</ins>
 - [Language Model Preference Evaluation with Multiple Weak Evaluators](https://arxiv.org/abs/2410.12869)
 <br>Zhengyu Hu=, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Hui Xiong, Ranjay Krishna.
-<br>*DATA-FM @ ICLR 2025*
+<br><ins>*DATA-FM @ ICLR 2025*</ins>
 - [EcoAct: Economic Agent Determines When to Register What Action](https://arxiv.org/abs/2411.01643)
 <br>Shaokun Zhang, **Jieyu Zhang**, Dujian Ding, Mirian Hipolito Garcia, Ankur Mallick, Daniel Madrigal, Menglin Xia, Victor Rühle, Qingyun Wu, Chi Wang.
-<br>*Reasoning and Planning for LLMs @ ICLR 2025*
+<br><ins>*Reasoning and Planning for LLMs @ ICLR 2025*</ins>
 - [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action](https://arxiv.org/abs/2412.05479)
 <br>Zixian Ma, Jianguo Zhang, Zhiwei Liu, **Jieyu Zhang**, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, Huan Wang, Caiming Xiong, Ranjay Krishna, Silvio Savarese.
-<br>*Reasoning and Planning for LLMs @ ICLR 2025*
+<br><ins>*Reasoning and Planning for LLMs @ ICLR 2025*</ins>
 
 ****
 
