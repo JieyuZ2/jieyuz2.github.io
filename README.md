@@ -59,7 +59,7 @@ I'm happy to mentor a few students on research and especially encourage students
 <br><ins>*NeurIPS 2023*</ins>
 - [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
 <br>DataComp Team.
-<br><ins>*NeurIPS 2023*<ins> <font color=red>Oral Presentation</font>
+<br><ins>*NeurIPS 2023*</ins> <font color=red>Oral Presentation</font>
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br><ins>*NeurIPS 2023*</ins>
