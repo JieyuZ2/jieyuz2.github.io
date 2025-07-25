@@ -1,6 +1,8 @@
 (\* denotes equal contribution, = denotes student I mentor)
 
 ### Preprint
+- [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)
+<br>Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, **Jieyu Zhang**, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei.
 - [SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding]()
 <br>Weikai Huang=, **Jieyu Zhang**, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Ranjay Krishna.
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
