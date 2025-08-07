@@ -1,6 +1,8 @@
 (\* denotes equal contribution, = denotes student I mentor)
 
 ### Preprint
+- [CoAct-1: Computer-using Agents with Coding as Actions](https://arxiv.org/abs/2508.03923)
+<br>Linxin Song, Yutong Dai, Viraj Prabhu, **Jieyu Zhang**, Taiwei Shi, Li Li, Junnan Li, Silvio Savarese, Zeyuan Chen, Jieyu Zhao, Ran Xu, Caiming Xiong.
 - [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)
 <br>Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, **Jieyu Zhang**, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei.
 - [SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding]()
