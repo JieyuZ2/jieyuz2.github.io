@@ -16,6 +16,12 @@
 ****
 
 ### 2025
+- [LATTE: Learning to Think with Vision Specialists](https://arxiv.org/abs/2412.05479)
+<br>Zixian Ma, Jianguo Zhang, Zhiwei Liu, **Jieyu Zhang**, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, Huan Wang, Caiming Xiong, Ranjay Krishna, Silvio Savarese.
+<br>*EMNLP 2025*
+- [Explaining Length Bias in LLM-Based Preference Evaluations]([https://arxiv.org/abs/2412.05479](https://arxiv.org/abs/2407.01085))
+<br>Zhengyu Hu, Linxin Song, **Jieyu Zhang**, Zheyuan Xiao, Tianfu Wang, Zhengyu Chen, Nicholas Jing Yuan, Jianxun Lian, Kaize Ding, Hui Xiong.
+<br>*EMNLP 2025 Findings*
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
 <br>*ICCV 2025*  <font color=red>Highlight</font>
@@ -40,9 +46,7 @@
 - [EcoAct: Economic Agent Determines When to Register What Action](https://arxiv.org/abs/2411.01643)
 <br>Shaokun Zhang, **Jieyu Zhang**, Dujian Ding, Mirian Hipolito Garcia, Ankur Mallick, Daniel Madrigal, Menglin Xia, Victor Rühle, Qingyun Wu, Chi Wang.
 <br>*Reasoning and Planning for LLMs @ ICLR 2025*
-- [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action](https://arxiv.org/abs/2412.05479)
-<br>Zixian Ma, Jianguo Zhang, Zhiwei Liu, **Jieyu Zhang**, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, Huan Wang, Caiming Xiong, Ranjay Krishna, Silvio Savarese.
-<br>*Reasoning and Planning for LLMs @ ICLR 2025*
+
 
 ****
 
