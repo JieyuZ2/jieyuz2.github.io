@@ -18,7 +18,7 @@
 ### 2025
 - [LATTE: Learning to Think with Vision Specialists](https://arxiv.org/abs/2412.05479)
 <br>Zixian Ma, Jianguo Zhang, Zhiwei Liu, **Jieyu Zhang**, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, Huan Wang, Caiming Xiong, Ranjay Krishna, Silvio Savarese.
-<br>*EMNLP 2025*
+<br>*EMNLP 2025*  <font color=red>Oral Presentation</font>
 - [Explaining Length Bias in LLM-Based Preference Evaluations](https://arxiv.org/abs/2407.0108)
 <br>Zhengyu Hu, Linxin Song, **Jieyu Zhang**, Zheyuan Xiao, Tianfu Wang, Zhengyu Chen, Nicholas Jing Yuan, Jianxun Lian, Kaize Ding, Hui Xiong.
 <br>*EMNLP 2025 Findings*
