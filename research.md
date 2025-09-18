@@ -18,7 +18,7 @@
 ### 2025
 - [URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model]()
 <br>Zhe Li\*=, Xiang Bai\*=, **Jieyu Zhang**, Zhuangzhe Wu, Che Xu, Ying Li, Chengkai Hou, Shanghang Zhang.
-<br>*NeurIPS 2025*  <font color=red>Oral Presentation</font>
+<br>*NeurIPS 2025*  <font color=red>Spotlight</font>
 - [LATTE: Learning to Think with Vision Specialists](https://arxiv.org/abs/2412.05479)
 <br>Zixian Ma, Jianguo Zhang, Zhiwei Liu, **Jieyu Zhang**, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, Huan Wang, Caiming Xiong, Ranjay Krishna, Silvio Savarese.
 <br>*EMNLP 2025*  <font color=red>Oral Presentation</font>
