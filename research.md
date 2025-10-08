@@ -16,7 +16,8 @@
 ### 2025
 - [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917)
 <br>Jason Lee\*, Jiafei Duan\*, Haoquan Fang\*, Yuquan Deng, Shuo Liu, Boyang Li, Bohan Fang, **Jieyu Zhang**, Yi Ru Wang, Sangho Lee, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix, Karen Farley, Eli VanderBilt, Ali Farhadi, Dieter Fox, Ranjay Krishna.
-<br>*Data @ CoRL 2025*  <font color=red>Spotlight Talk</font>
+<br>*Data @ CoRL 2025*  <font color=red>Best Paper Nomination</font>
+<br>*The Rational Robots Workshop @ CoRL 2025*  <font color=red>Best Paper Runner-up</font>
 - [URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model]()
 <br>Zhe Li\*, Xiang Bai\*, **Jieyu Zhang**, Zhuangzhe Wu, Che Xu, Ying Li, Chengkai Hou, Shanghang Zhang.
 <br>*NeurIPS 2025*  <font color=red>Spotlight</font>
