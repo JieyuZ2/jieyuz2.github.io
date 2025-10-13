@@ -5,7 +5,7 @@
 <br>Linxin Song, Yutong Dai, Viraj Prabhu, **Jieyu Zhang**, Taiwei Shi, Li Li, Junnan Li, Silvio Savarese, Zeyuan Chen, Jieyu Zhao, Ran Xu, Caiming Xiong.
 - [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)
 <br>Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, **Jieyu Zhang**, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei.
-- [SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding]()
+- [SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110)
 <br>Weikai Huang=, **Jieyu Zhang**, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Ranjay Krishna.
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
