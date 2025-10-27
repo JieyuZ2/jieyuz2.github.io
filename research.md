@@ -3,8 +3,6 @@
 ### Preprint
 - [CoAct-1: Computer-using Agents with Coding as Actions](https://arxiv.org/abs/2508.03923)
 <br>Linxin Song, Yutong Dai, Viraj Prabhu, **Jieyu Zhang**, Taiwei Shi, Li Li, Junnan Li, Silvio Savarese, Zeyuan Chen, Jieyu Zhao, Ran Xu, Caiming Xiong.
-- [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)
-<br>Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, **Jieyu Zhang**, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei.
 - [SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110)
 <br>Weikai Huang=, **Jieyu Zhang**, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Ranjay Krishna.
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
@@ -14,6 +12,9 @@
 ****
 
 ### 2025
+- [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)
+<br>Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, **Jieyu Zhang**, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei.
+<br>*Structural Priors for Vision Workshop @ ICCV 2025*  <font color=red>Best Paper Award</font>
 - [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917)
 <br>Jason Lee\*, Jiafei Duan\*, Haoquan Fang\*, Yuquan Deng, Shuo Liu, Boyang Li, Bohan Fang, **Jieyu Zhang**, Yi Ru Wang, Sangho Lee, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix, Karen Farley, Eli VanderBilt, Ali Farhadi, Dieter Fox, Ranjay Krishna.
 <br>*Data @ CoRL 2025*  <font color=red>Best Paper Nomination</font>
