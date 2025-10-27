@@ -111,6 +111,7 @@ I'm happy to mentor a few students on research and especially encourage students
 - ML and Systems Rising Stars
 - OpenAI Superalignment Fellowship
 - Apple Scholar in AI/ML PhD Fellowship
+- Structural Priors for Vision Workshop @ ICCV 2025 Best Paper Award
 - LLM Agents @ ICLR 2024 Best Paper Award
 - ICDM'20 Best Paper Award
 - CRA Outstanding Undergraduate Researcher Honorable Mention
