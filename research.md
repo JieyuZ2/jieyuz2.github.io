@@ -64,7 +64,7 @@
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
 <br>59 authors.
 <br>*NeurIPS 2024*
-- [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](https://arxiv.org/abs/2408.08872)
+- [Blip-3: A family of open large multimodal models](https://arxiv.org/abs/2408.08872)
 <br>Le Xue, Manli Shu, Anas Awadalla, Jun Wang, An Yan, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, Yutong Dai, Michael S Ryoo, Shrikant Kendre, **Jieyu Zhang**, Can Qin, Shu Zhang, Chia-Chih Chen, Ning Yu, Juntao Tan, Tulika Manoj Awalgaonkar, Shelby Heinecke, Huan Wang, Yejin Choi, Ludwig Schmidt, Zeyuan Chen, Silvio Savarese, Juan Carlos Niebles, Caiming Xiong, Ran Xu.
 <br><font color=red>Oral Presentation</font> *ICCV 25 Findings* 
 <br>*ECCV EVAL-FoMo Workshop 2024*
