@@ -93,15 +93,6 @@ I'm happy to mentor a few students on research and especially encourage students
 <br><a href="https://www.economist.com/science-and-technology/2024/05/13/todays-ai-models-are-impressive-teams-of-them-will-be-formidable" style="color: red; text-decoration: underline">The Economist article</a> | <a href="https://www.forbes.com/sites/joannechen/2024/05/24/the-promise-of-multi-agent-ai/?sh=2c1e4f454d97" style="color: red; text-decoration: underline">The Forbes article</a>
 
 
-### Before Ph.D.
-- [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/abs/2101.01896)
-<br>**Jieyu Zhang**, Xiangchen Song, Ying Zeng, Jiaze Chen, Jiaming Shen, Yuning Mao, Lei Li.
-<br>*AAAI 2021*
-- [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg)
-<br>Carl Yang, **Jieyu Zhang**, Jiawei Han.
-<br>*ICDM 2020* 🏆 <font color=red>Best Paper</font>
-
-
 ## 🏅 Awards
 - ML and Systems Rising Stars
 - OpenAI Superalignment Fellowship
