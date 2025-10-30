@@ -14,23 +14,23 @@
 ### 2025
 - [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)
 <br>Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, **Jieyu Zhang**, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei.
-<br>*Structural Priors for Vision Workshop @ ICCV 2025*  <font color=red>Best Paper Award</font>
+<br><font color=red>Best Paper Award</font> *Structural Priors for Vision Workshop @ ICCV 2025*  
 - [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917)
 <br>Jason Lee\*, Jiafei Duan\*, Haoquan Fang\*, Yuquan Deng, Shuo Liu, Boyang Li, Bohan Fang, **Jieyu Zhang**, Yi Ru Wang, Sangho Lee, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix, Karen Farley, Eli VanderBilt, Ali Farhadi, Dieter Fox, Ranjay Krishna.
-<br>*Data @ CoRL 2025*  <font color=red>Best Paper Nomination</font>
-<br>*The Rational Robots Workshop @ CoRL 2025*  <font color=red>Best Paper Runner-up</font>
+<br><font color=red>Best Paper Nomination</font> *Data @ CoRL 2025* 
+<br><font color=red>Best Paper Runner-up</font> *The Rational Robots Workshop @ CoRL 2025*  
 - [URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model]()
 <br>Zhe Li\*, Xiang Bai\*, **Jieyu Zhang**, Zhuangzhe Wu, Che Xu, Ying Li, Chengkai Hou, Shanghang Zhang.
-<br>*NeurIPS 2025*  <font color=red>Spotlight</font>
+<br><font color=red>Spotlight</font> *NeurIPS 2025*  
 - [LATTE: Learning to Think with Vision Specialists](https://arxiv.org/abs/2412.05479)
 <br>Zixian Ma, Jianguo Zhang, Zhiwei Liu, **Jieyu Zhang**, Juntao Tan, Manli Shu, Juan Carlos Niebles, Shelby Heinecke, Huan Wang, Caiming Xiong, Ranjay Krishna, Silvio Savarese.
-<br>*EMNLP 2025*  <font color=red>Oral Presentation</font>
+<br><font color=red>Oral Presentation</font> *EMNLP 2025*  
 - [Explaining Length Bias in LLM-Based Preference Evaluations](https://arxiv.org/abs/2407.0108)
 <br>Zhengyu Hu, Linxin Song, **Jieyu Zhang**, Zheyuan Xiao, Tianfu Wang, Zhengyu Chen, Nicholas Jing Yuan, Jianxun Lian, Kaize Ding, Hui Xiong.
 <br>*EMNLP 2025 Findings*
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
-<br>*ICCV 2025*  <font color=red>Highlight</font>
+<br><font color=red>Highlight</font> *ICCV 2025*  
 - [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
 <br>Linxin Song\*=, Jiale Liu\*=, **Jieyu Zhang**, Shaokun Zhang, Ao Luo, Shijian Wang, Qingyun Wu, Chi Wang.
 <br>*AIA @ COLM 2025*
@@ -39,7 +39,7 @@
 <br>*COLM 2025*
 - [Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems](https://arxiv.org/abs/2505.00212)
 <br>Shaokun Zhang\*, Ming Yin\*, **Jieyu Zhang**, Jiale Liu, Zhiguang Han, Jingyang Zhang, Beibin Li, Chi Wang, Huazheng Wang, Yiran Chen, Qingyun Wu.
-<br>*ICML 2025* <font color=red>Spotlight</font>
+<br><font color=red>Spotlight</font> *ICML 2025* 
 - [H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos](https://arxiv.org/abs/2505.11920)
 <br>Guangrun Li\*, Yaoxu Lyu\*, Zhuoyang Liu\*, Chengkai Hou, Yinda Xu, **Jieyu Zhang**, Shanghang Zhang.
 <br>*SynData4CV @ CVPR 2025*
