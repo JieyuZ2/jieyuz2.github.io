@@ -59,14 +59,14 @@
 ### 2024
 - [Task Me Anything](https://arxiv.org/abs/2406.11775)
 <br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
-<br>*NeurIPS 2024* | *Video-Language Models @ NeurIPS 2024*  <font color=red>Oral Presentation</font>
+<br><font color=red>Oral Presentation</font> *Video-Language Models @ NeurIPS 2024* | *NeurIPS 2024*
 <br><a href="https://snorkel.ai/blog/task-me-anything-innovating-multimodal-model-benchmarks/" style="color: red; text-decoration: underline">Blog at Snorkel AI</a> | <a href="https://www.youtube.com/watch?v=J3ECnV8Yc_g" style="color: red; text-decoration: underline">Talk at Snorkel AI</a>
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
 <br>59 authors.
 <br>*NeurIPS 2024*
 - [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](https://arxiv.org/abs/2408.08872)
 <br>Le Xue, Manli Shu, Anas Awadalla, Jun Wang, An Yan, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, Yutong Dai, Michael S Ryoo, Shrikant Kendre, **Jieyu Zhang**, Can Qin, Shu Zhang, Chia-Chih Chen, Ning Yu, Juntao Tan, Tulika Manoj Awalgaonkar, Shelby Heinecke, Huan Wang, Yejin Choi, Ludwig Schmidt, Zeyuan Chen, Silvio Savarese, Juan Carlos Niebles, Caiming Xiong, Ran Xu.
-<br>*ICCV 25 Findings* <font color=red>Oral Presentation</font>
+<br><font color=red>Oral Presentation</font> *ICCV 25 Findings* 
 <br>*ECCV EVAL-FoMo Workshop 2024*
 - [m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks](https://arxiv.org/abs/2403.11085)
 <br>Zixian Ma, Weikai Huang, **Jieyu Zhang**, Tanmay Gupta, Ranjay Krishna.
@@ -86,7 +86,7 @@
 <br>*LLM Agents @ ICLR 2024*
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang.
-<br>*COLM 2024* | *LLM Agents @ ICLR 2024* <font color=red>Best Paper Award</font> 
+<br><font color=red>Best Paper Award</font> *LLM Agents @ ICLR 2024* | *COLM 2024*
 <br><a href="https://github.com/microsoft/autogen" style="color: red; text-decoration: underline">Github 30K+ Star & 4K+ Fork</a>
 <br><a href="https://www.economist.com/science-and-technology/2024/05/13/todays-ai-models-are-impressive-teams-of-them-will-be-formidable" style="color: red; text-decoration: underline">The Economist article</a> | <a href="https://www.forbes.com/sites/joannechen/2024/05/24/the-promise-of-multi-agent-ai/?sh=2c1e4f454d97" style="color: red; text-decoration: underline">The Forbes article</a>
 
@@ -99,7 +99,7 @@
 <br>*NeurIPS 2023*
 - [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
 <br>34 authors.
-<br>*NeurIPS 2023* <font color=red>Oral Presentation</font>
+<br><font color=red>Oral Presentation</font> *NeurIPS 2023* 
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br>*NeurIPS 2023*
@@ -138,7 +138,7 @@
 ### 2021
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
-<br>*NeurIPS 2021* <font color=red>Oral Presentation</font>
+<br><font color=red>Oral Presentation</font> *NeurIPS 2021* 
 
 ****
 
@@ -148,4 +148,4 @@
 <br>*AAAI 2021*
 - [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg)
 <br>Carl Yang, **Jieyu Zhang**, Jiawei Han.
-<br>*ICDM 2020* <font color=red>Best Paper Award</font>
+<br><font color=red>Best Paper Award</font> *ICDM 2020* 
