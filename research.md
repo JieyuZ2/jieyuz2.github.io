@@ -135,14 +135,10 @@
 
 ****
 
-### 2021
+### 2021 and before
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
 <br><font color=red>Oral Presentation</font> *NeurIPS 2021* 
-
-****
-
-### Before Ph.D.
 - [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/abs/2101.01896)
 <br>**Jieyu Zhang**, Xiangchen Song, Ying Zeng, Jiaze Chen, Jiaming Shen, Yuning Mao, Lei Li.
 <br>*AAAI 2021*
