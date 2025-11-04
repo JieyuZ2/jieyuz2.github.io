@@ -19,7 +19,7 @@
 <br>Jason Lee\*, Jiafei Duan\*, Haoquan Fang\*, Yuquan Deng, Shuo Liu, Boyang Li, Bohan Fang, **Jieyu Zhang**, Yi Ru Wang, Sangho Lee, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix, Karen Farley, Eli VanderBilt, Ali Farhadi, Dieter Fox, Ranjay Krishna.
 <br><font color=red>Best Paper Nomination</font> *Data @ CoRL 2025* 
 <br><font color=red>Best Paper Runner-up</font> *The Rational Robots Workshop @ CoRL 2025*  
-- [URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model]()
+- [URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model](https://arxiv.org/pdf/2511.00940)
 <br>Zhe Li\*, Xiang Bai\*, **Jieyu Zhang**, Zhuangzhe Wu, Che Xu, Ying Li, Chengkai Hou, Shanghang Zhang.
 <br><font color=red>Spotlight</font> *NeurIPS 2025*  
 - [LATTE: Learning to Think with Vision Specialists](https://arxiv.org/abs/2412.05479)
