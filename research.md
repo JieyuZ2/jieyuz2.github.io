@@ -124,7 +124,7 @@
 
 ****
 
-### 2022
+### 2022 and before
 
 - [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)
 <br>**Jieyu Zhang\***, Haonan Wang\*, Cheng-Yu Hsieh, Alexander Ratner.
@@ -135,10 +135,6 @@
 - [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)
 <br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
 <br>*VLDB 2022*
-
-****
-
-### 2021 and before
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
 <br><font color=red>Oral Presentation</font> *NeurIPS 2021* 
