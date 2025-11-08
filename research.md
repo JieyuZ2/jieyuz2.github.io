@@ -8,13 +8,16 @@
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
 
+****
+
+### 2026
+- [Towards Acyclic Preference Evaluation of Language Models via Multiple Evaluators](https://arxiv.org/abs/2410.12869)
+<br>Zhengyu Hu=, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Kaize Ding, Ranjay Krishna.
+<br>*AAAI 2026*
 
 ****
 
 ### 2025
-- [Towards Acyclic Preference Evaluation of Language Models via Multiple Evaluators](https://arxiv.org/abs/2410.12869)
-<br>Zhengyu Hu=, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Kaize Ding, Ranjay Krishna.
-<br>*AAAI 2025*
 - [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)
 <br>Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, **Jieyu Zhang**, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei.
 <br><font color=red>Best Paper Award</font> *Structural Priors for Vision Workshop @ ICCV 2025*  
