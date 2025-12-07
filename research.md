@@ -20,7 +20,8 @@
 ### 2025
 - [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)
 <br>Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, **Jieyu Zhang**, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei.
-<br><font color=red>Best Paper Award</font> *Structural Priors for Vision Workshop @ ICCV 2025*  
+<br><font color=red>Best Paper Award</font> *Structural Priors for Vision Workshop @ ICCV 2025*
+<br><font color=red>Best Paper Honorable Mention</font> *LAW @ NeurIPS 2025* 
 - [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917)
 <br>Jason Lee\*, Jiafei Duan\*, Haoquan Fang\*, Yuquan Deng, Shuo Liu, Boyang Li, Bohan Fang, **Jieyu Zhang**, Yi Ru Wang, Sangho Lee, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix, Karen Farley, Eli VanderBilt, Ali Farhadi, Dieter Fox, Ranjay Krishna.
 <br><font color=red>Best Paper Nomination</font> *Data @ CoRL 2025* 
