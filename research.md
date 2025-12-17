@@ -64,7 +64,6 @@
 - [Task Me Anything](https://arxiv.org/abs/2406.11775)
 <br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
 <br><font color=red>Oral Presentation</font> *Video-Language Models @ NeurIPS 2024* | *NeurIPS 2024*
-<br><a href="https://snorkel.ai/blog/task-me-anything-innovating-multimodal-model-benchmarks/" style="color: red; text-decoration: underline">Blog at Snorkel AI</a> | <a href="https://www.youtube.com/watch?v=J3ECnV8Yc_g" style="color: red; text-decoration: underline">Talk at Snorkel AI</a>
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
 <br>59 authors.
 <br>*NeurIPS 2024*
@@ -91,7 +90,6 @@
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang.
 <br><font color=red>Best Paper Award</font> *LLM Agents @ ICLR 2024* | *COLM 2024*
-<br><a href="https://github.com/microsoft/autogen" style="color: red; text-decoration: underline">Github 30K+ Star & 4K+ Fork</a>
 <br><a href="https://www.economist.com/science-and-technology/2024/05/13/todays-ai-models-are-impressive-teams-of-them-will-be-formidable" style="color: red; text-decoration: underline">The Economist article</a> | <a href="https://www.forbes.com/sites/joannechen/2024/05/24/the-promise-of-multi-agent-ai/?sh=2c1e4f454d97" style="color: red; text-decoration: underline">The Forbes article</a>
 
 ****
