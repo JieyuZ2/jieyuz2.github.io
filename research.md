@@ -3,8 +3,6 @@
 ### Preprint
 - [Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611)
 <br>Christopher Clark\*, **Jieyu Zhang\***, Zixian Ma\*, Jae Sung Park, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Jason Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winston Han, Ali Farhadi, Ranjay Krishna.
-- [CoAct-1: Computer-using Agents with Coding as Actions](https://arxiv.org/abs/2508.03923)
-<br>Linxin Song, Yutong Dai, Viraj Prabhu, **Jieyu Zhang**, Taiwei Shi, Li Li, Junnan Li, Silvio Savarese, Zeyuan Chen, Jieyu Zhao, Ran Xu, Caiming Xiong.
 - [SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110)
 <br>Weikai Huang=, **Jieyu Zhang**, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Ranjay Krishna.
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
@@ -13,6 +11,20 @@
 ****
 
 ### 2026
+- [Generate Any Scene: Evaluating and Improving Text-to-Vision Generation with Scene Graph Programming](https://arxiv.org/abs/2412.08221)
+<br>Ziqi Gao\*=, Weikai Huang\*=, **Jieyu Zhang**, Aniruddha Kembhavi, Ranjay Krishna.
+<br>*ICLR 2026*
+- [CoAct-1: Computer-using Agents with Coding as Actions](https://arxiv.org/abs/2508.03923)
+<br>Linxin Song, Yutong Dai, Viraj Prabhu, **Jieyu Zhang**, Taiwei Shi, Li Li, Junnan Li, Silvio Savarese, Zeyuan Chen, Jieyu Zhao, Ran Xu, Caiming Xiong.
+<br>*ICLR 2026*
+- [Understanding VLMs Spatial Mental Modeling Capability from Limited Views](https://arxiv.org/abs/2506.21458)
+<br>Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, **Jieyu Zhang**, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei.
+<br><font color=red>Best Paper Award</font> *Structural Priors for Vision Workshop @ ICCV 2025*
+<br><font color=red>Best Paper Honorable Mention</font> *LAW @ NeurIPS 2025*
+<br>*ICLR 2026*
+- [Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning](https://arxiv.org/abs/2505.00024)
+<br>Shaokun Zhang, Yi Dong, **Jieyu Zhang**, Jan Kautz, Bryan Catanzaro, Andrew Tao, Qingyun Wu, Zhiding Yu, Guilin Liu.
+<br>*ICLR 2026*
 - [Towards Acyclic Preference Evaluation of Language Models via Multiple Evaluators](https://arxiv.org/abs/2410.12869)
 <br>Zhengyu Hu=, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Kaize Ding, Ranjay Krishna.
 <br>*AAAI 2026*
@@ -20,10 +32,6 @@
 ****
 
 ### 2025
-- [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)
-<br>Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, **Jieyu Zhang**, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei.
-<br><font color=red>Best Paper Award</font> *Structural Priors for Vision Workshop @ ICCV 2025*
-<br><font color=red>Best Paper Honorable Mention</font> *LAW @ NeurIPS 2025* 
 - [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917)
 <br>Jason Lee\*, Jiafei Duan\*, Haoquan Fang\*, Yuquan Deng, Shuo Liu, Boyang Li, Bohan Fang, **Jieyu Zhang**, Yi Ru Wang, Sangho Lee, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix, Karen Farley, Eli VanderBilt, Ali Farhadi, Dieter Fox, Ranjay Krishna.
 <br><font color=red>Best Paper Nomination</font> *Data @ CoRL 2025* 
@@ -51,9 +59,6 @@
 <br><font color=red>Spotlight</font> *ICML 2025* 
 - [H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos](https://arxiv.org/abs/2505.11920)
 <br>Guangrun Li\*, Yaoxu Lyu\*, Zhuoyang Liu\*, Chengkai Hou, Yinda Xu, **Jieyu Zhang**, Shanghang Zhang.
-<br>*SynData4CV @ CVPR 2025*
-- [Generate Any Scene: Evaluating and Improving Text-to-Vision Generation with Scene Graph Programming](https://arxiv.org/abs/2412.08221)
-<br>Ziqi Gao\*=, Weikai Huang\*=, **Jieyu Zhang**, Aniruddha Kembhavi, Ranjay Krishna.
 <br>*SynData4CV @ CVPR 2025*
 - [EcoAct: Economic Agent Determines When to Register What Action](https://arxiv.org/abs/2411.01643)
 <br>Shaokun Zhang, **Jieyu Zhang**, Dujian Ding, Mirian Hipolito Garcia, Ankur Mallick, Daniel Madrigal, Menglin Xia, Victor Rühle, Qingyun Wu, Chi Wang.
