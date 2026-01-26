@@ -50,10 +50,7 @@
 <br>*EMNLP 2025 Findings*
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
-<br><font color=red>Highlight</font> *ICCV 2025*  
-- [Adaptive In-conversation Team Building for Language Model Agents](https://arxiv.org/abs/2405.19425)
-<br>Linxin Song\*=, Jiale Liu\*=, **Jieyu Zhang**, Shaokun Zhang, Ao Luo, Shijian Wang, Qingyun Wu, Chi Wang.
-<br>*AIA @ COLM 2025*
+<br><font color=red>Highlight</font> *ICCV 2025* 
 - [Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base](https://arxiv.org/abs/2503.23361)
 <br>Linxin Song, Xuwei Ding, **Jieyu Zhang**, Taiwei Shi, Ryotaro Shimizu, Rahul Gupta, Yang Liu, Jian Kang, Jieyu Zhao.
 <br>*COLM 2025*
@@ -63,9 +60,6 @@
 - [H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos](https://arxiv.org/abs/2505.11920)
 <br>Guangrun Li\*, Yaoxu Lyu\*, Zhuoyang Liu\*, Chengkai Hou, Yinda Xu, **Jieyu Zhang**, Shanghang Zhang.
 <br>*SynData4CV @ CVPR 2025*
-- [EcoAct: Economic Agent Determines When to Register What Action](https://arxiv.org/abs/2411.01643)
-<br>Shaokun Zhang, **Jieyu Zhang**, Dujian Ding, Mirian Hipolito Garcia, Ankur Mallick, Daniel Madrigal, Menglin Xia, Victor Rühle, Qingyun Wu, Chi Wang.
-<br>*Reasoning and Planning for LLMs @ ICLR 2025*
 
 
 ****
