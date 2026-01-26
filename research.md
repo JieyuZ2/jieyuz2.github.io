@@ -11,6 +11,9 @@
 ****
 
 ### 2026
+- [What Lies Beyond the View? Actively Constructing Spatial Beliefs in Foundation Models]()
+<br>Pingyue Zhang\*, Zihan Huang\*, Yue Wang\*, **Jieyu Zhang\***, Letian Xue, Zihan Wang, Qineng Wang, Keshigeyan Chandrasegaran, Ruohan Zhang, Yejin Choi, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Manling Li.
+<br>*ICLR 2026*
 - [Generate Any Scene: Evaluating and Improving Text-to-Vision Generation with Scene Graph Programming](https://arxiv.org/abs/2412.08221)
 <br>Ziqi Gao\*=, Weikai Huang\*=, **Jieyu Zhang**, Aniruddha Kembhavi, Ranjay Krishna.
 <br>*ICLR 2026*
