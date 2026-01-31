@@ -28,6 +28,11 @@
 - [Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning](https://arxiv.org/abs/2505.00024)
 <br>Shaokun Zhang, Yi Dong, **Jieyu Zhang**, Jan Kautz, Bryan Catanzaro, Andrew Tao, Qingyun Wu, Zhiding Yu, Guilin Liu.
 <br>*ICLR 2026*
+- [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917)
+<br>Jason Lee\*, Jiafei Duan\*, Haoquan Fang\*, Yuquan Deng, Shuo Liu, Boyang Li, Bohan Fang, **Jieyu Zhang**, Yi Ru Wang, Sangho Lee, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix, Karen Farley, Eli VanderBilt, Ali Farhadi, Dieter Fox, Ranjay Krishna.
+<br><font color=red>Best Paper Nomination</font> *Data @ CoRL 2025* 
+<br><font color=red>Best Paper Runner-up</font> *The Rational Robots Workshop @ CoRL 2025*
+<br>*ICRA 2026*
 - [Towards Acyclic Preference Evaluation of Language Models via Multiple Evaluators](https://arxiv.org/abs/2410.12869)
 <br>Zhengyu Hu=, **Jieyu Zhang**, Zhihan Xiong, Alexander Ratner, Kaize Ding, Ranjay Krishna.
 <br>*AAAI 2026*
@@ -35,10 +40,7 @@
 ****
 
 ### 2025
-- [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917)
-<br>Jason Lee\*, Jiafei Duan\*, Haoquan Fang\*, Yuquan Deng, Shuo Liu, Boyang Li, Bohan Fang, **Jieyu Zhang**, Yi Ru Wang, Sangho Lee, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix, Karen Farley, Eli VanderBilt, Ali Farhadi, Dieter Fox, Ranjay Krishna.
-<br><font color=red>Best Paper Nomination</font> *Data @ CoRL 2025* 
-<br><font color=red>Best Paper Runner-up</font> *The Rational Robots Workshop @ CoRL 2025*  
+
 - [URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model](https://arxiv.org/pdf/2511.00940)
 <br>Zhe Li\*, Xiang Bai\*, **Jieyu Zhang**, Zhuangzhe Wu, Che Xu, Ying Li, Chengkai Hou, Shanghang Zhang.
 <br><font color=red>Spotlight</font> *NeurIPS 2025*  
