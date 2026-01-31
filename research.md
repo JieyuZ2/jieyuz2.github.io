@@ -3,7 +3,7 @@
 ### Preprint
 - [Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611)
 <br>Christopher Clark\*, **Jieyu Zhang\***, Zixian Ma\*, Jae Sung Park, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Jason Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winston Han, Ali Farhadi, Ranjay Krishna.
-- [SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110)
+- [Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110)
 <br>Weikai Huang=, **Jieyu Zhang**, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Ranjay Krishna.
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
