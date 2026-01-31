@@ -1,6 +1,6 @@
 I'm a final year Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
-**Research Interests**: My current research interests lie in multimodal models and data-centric AI.
+**Research Interests**: My current research interests lie in computervision, multimodal models, and data-centric AI.
 
 My research is supported by the following fellowships:
 - [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track)
@@ -30,12 +30,12 @@ I'm happy to mentor a few students on research and especially encourage students
 
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
-<br>*ICCV 2025* <font color=red>Highlight</font>
+<br><font color=red>Highlight</font> *ICCV 2025* 
 
 - [Task Me Anything](https://arxiv.org/abs/2406.11775)
 <br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
 <br>*NeurIPS 2024*
-<br>*Video-Language Models @ NeurIPS 2024*  <font color=red>Oral Presentation</font>
+<br> <font color=red>Oral Presentation</font> *Video-Language Models @ NeurIPS 2024* 
 <br><a href="https://snorkel.ai/blog/task-me-anything-innovating-multimodal-model-benchmarks/" style="text-decoration: underline">Blog at Snorkel AI</a> | <a href="https://www.youtube.com/watch?v=J3ECnV8Yc_g" style="text-decoration: underline">Talk at Snorkel AI</a>
 
 - [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
@@ -45,7 +45,7 @@ I'm happy to mentor a few students on research and especially encourage students
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
 <br>*COLM 2024*
-<br>*LLM Agents @ ICLR 2024* 🏆 <font color=red>Best Paper</font>
+<br>🏆 <font color=red>Best Paper</font> *LLM Agents @ ICLR 2024* 
 <br><a href="https://www.economist.com/science-and-technology/2024/05/13/todays-ai-models-are-impressive-teams-of-them-will-be-formidable" style="text-decoration: underline">The Economist article</a> | <a href="https://www.forbes.com/sites/joannechen/2024/05/24/the-promise-of-multi-agent-ai/?sh=2c1e4f454d97" style="text-decoration: underline">The Forbes article</a>
 
 
