@@ -1,13 +1,10 @@
 I'm a final year Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
-**Research Interests**: My current research interests lie in computervision, multimodal models, and data-centric AI.
+**Research Interests**: My current research interests lie in computer vision, multimodal models, and data-centric AI.
 
 My research is supported by the following fellowships:
 - [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track)
 - [OpenAI Superalignment Fellowship](https://openai.com/blog/superalignment-fast-grants)
-
-I was selected as 
-- the 2025 ML and Systems Rising Stars
 
 I'm passionate about mentoring and teaching. I was 
 - co-instructor of **CSE 455: Computer Vision (undergrad)**
