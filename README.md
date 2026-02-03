@@ -40,7 +40,9 @@ I'm happy to mentor a few students on research and especially encourage students
 <br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
 <br>*NeurIPS 2023*
 
-- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
+- <a href="[https://example.com](https://arxiv.org/abs/2308.08155)" style="color:black; font-weight:bold; text-decoration:none;">
+AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework
+</a>
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
 <br>*COLM 2024*
 <br>🏆 <font color=red>Best Paper</font> *LLM Agents @ ICLR 2024* 
