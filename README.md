@@ -27,12 +27,13 @@ I'm happy to mentor a few students on research and especially encourage students
 
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
-<br><font color=red>Highlight</font> *ICCV 2025* 
+<br>*ICCV 2025*
+<br><font color=red>Highlight</font> 
 
 - [Task Me Anything](https://arxiv.org/abs/2406.11775)
 <br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
 <br>*NeurIPS 2024*
-<br> <font color=red>Oral Presentation</font> *Video-Language Models @ NeurIPS 2024* 
+<br> <font color=red>Oral Presentation</font> at *Video-Language Models @ NeurIPS 2024* 
 <br><a href="https://snorkel.ai/blog/task-me-anything-innovating-multimodal-model-benchmarks/" style="text-decoration: underline">Blog at Snorkel AI</a> | <a href="https://www.youtube.com/watch?v=J3ECnV8Yc_g" style="text-decoration: underline">Talk at Snorkel AI</a>
 
 - [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
