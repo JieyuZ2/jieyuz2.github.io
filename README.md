@@ -21,6 +21,10 @@ I'm happy to mentor a few students on research and especially encourage students
 <br>Christopher Clark\*, **Jieyu Zhang\***, Zixian Ma\*, Jae Sung Park, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Jason Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winston Han, Ali Farhadi, Ranjay Krishna.
 <br><a href="https://playground.allenai.org/?model=molmo2-8b&utm_source=ai2-molmo2&utm_medium=referral&utm_campaign=molmo2_launch" style="text-decoration: underline">Try it Now!</a> | <a href="https://openrouter.ai/allenai/molmo-2-8b:free" style="text-decoration: underline">Free API access!</a> | <a href="https://allenai.org/molmo" style="text-decoration: underline">Blog at AI2</a> 
 
+- [Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?](https://arxiv.org/abs/2602.07055)
+<br>Pingyue Zhang\*, Zihan Huang\*, Yue Wang\*, **Jieyu Zhang\***, Letian Xue, Zihan Wang, Qineng Wang, Keshigeyan Chandrasegaran, Ruohan Zhang, Yejin Choi, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Manling Li.
+<br>*ICLR 2026*
+
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
 <br><a href="https://www.salesforce.com/blog/provision-multimodal-data-generation/" style="text-decoration: underline">Blog at Salesforce Research</a> | <a href="https://venturebeat.com/data-infrastructure/breaking-the-data-bottleneck-salesforces-provision-speeds-multimodal-ai-training-with-image-scene-graphs/" style="text-decoration: underline">VentureBeat</a> | <a href="https://www.marktechpost.com/2025/01/11/provision-a-scalable-programmatic-approach-to-vision-centric-instruction-data-for-multimodal-language-models/" style="text-decoration: underline">MarkTechPost</a>
