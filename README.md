@@ -19,7 +19,8 @@ I'm happy to mentor a few students on research and especially encourage students
 ## 📝 Selected Research
 - [Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611)
 <br>Christopher Clark\*, **Jieyu Zhang\***, Zixian Ma\*, Jae Sung Park, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Jason Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winston Han, Ali Farhadi, Ranjay Krishna.
-<br><a href="https://playground.allenai.org/?model=molmo2-8b&utm_source=ai2-molmo2&utm_medium=referral&utm_campaign=molmo2_launch" style="text-decoration: underline">Try it Now!</a> | <a href="https://openrouter.ai/allenai/molmo-2-8b:free" style="text-decoration: underline">Free API access!</a> | <a href="https://allenai.org/molmo" style="text-decoration: underline">Blog at AI2</a> 
+<br><a href="https://playground.allenai.org/?model=molmo2-8b&utm_source=ai2-molmo2&utm_medium=referral&utm_campaign=molmo2_launch" style="text-decoration: underline">Try it Now!</a> | <a href="https://openrouter.ai/allenai/molmo-2-8b:free" style="text-decoration: underline">Free API access!</a> | <a href="https://allenai.org/molmo" style="text-decoration: underline">Blog at AI2</a>
+<br>*CVPR 2026*
 
 - [Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?](https://arxiv.org/abs/2602.07055)
 <br>Pingyue Zhang\*, Zihan Huang\*, Yue Wang\*, **Jieyu Zhang\***, Letian Xue, Zihan Wang, Qineng Wang, Keshigeyan Chandrasegaran, Ruohan Zhang, Yejin Choi, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Manling Li.
