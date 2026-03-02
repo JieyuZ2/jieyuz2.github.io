@@ -1,7 +1,8 @@
 (\* denotes equal contribution, = denotes student I mentor)
 
 ### Preprint
-
+- [Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos](https://arxiv.org/abs/2602.23543)
+<br>Ziqi Gao, **Jieyu Zhang**, Wisdom Oluchi Ikezogwo, Jae Sung Park, Tario G. You, Daniel Ogbu, Chenhao Zheng, Weikai Huang, Yinuo Yang, Winson Han, Quan Kong, Rajat Saini, Ranjay Krishna.
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
 
