@@ -22,6 +22,14 @@ I'm happy to mentor a few students on research and especially encourage students
 <br><a href="https://playground.allenai.org/?model=molmo2-8b&utm_source=ai2-molmo2&utm_medium=referral&utm_campaign=molmo2_launch" style="text-decoration: underline">Try it Now!</a> | <a href="https://openrouter.ai/allenai/molmo-2-8b:free" style="text-decoration: underline">Free API access!</a> | <a href="https://allenai.org/molmo" style="text-decoration: underline">Blog at AI2</a>
 <br>*CVPR 2026*
 
+- [TrajTok: Learning Trajectory Tokens Enables better Video Understanding](https://arxiv.org/abs/2602.22779)
+<br>Chenhao Zheng, **Jieyu Zhang**, Jianing Zhang, Weikai Huang, Ashutosh Kumar, Quan Kong, Oncel Tuzel, Chun-Liang Li, Ranjay Krishna.
+<br>*CVPR 2026*
+
+- [Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110)
+<br>Weikai Huang=, **Jieyu Zhang**, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Ranjay Krishna.
+<br>*CVPR 2026*
+
 - [Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?](https://arxiv.org/abs/2602.07055)
 <br>Pingyue Zhang\*, Zihan Huang\*, Yue Wang\*, **Jieyu Zhang\***, Letian Xue, Zihan Wang, Qineng Wang, Keshigeyan Chandrasegaran, Ruohan Zhang, Yejin Choi, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Manling Li.
 <br>*ICLR 2026*
