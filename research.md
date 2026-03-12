@@ -18,9 +18,6 @@
 - [Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110)
 <br>Weikai Huang=, **Jieyu Zhang**, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Ranjay Krishna.
 <br>*CVPR 2026*
-- [SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning](https://arxiv.org/abs/2512.13874)
-<br>Jitesh Jain, Jialuo Li, Zixian Ma, **Jieyu Zhang**, Chris Dongjoo Kim, Sangho Lee, Rohun Tripathi, Tanmay Gupta, Christopher Clark, Humphrey Shi.
-<br>*CVPR 2026*
 - [Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?](https://arxiv.org/abs/2602.07055)
 <br>Pingyue Zhang\*, Zihan Huang\*, Yue Wang\*, **Jieyu Zhang\***, Letian Xue, Zihan Wang, Qineng Wang, Keshigeyan Chandrasegaran, Ruohan Zhang, Yejin Choi, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Manling Li.
 <br>*ICLR 2026*
