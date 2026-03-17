@@ -1,6 +1,10 @@
 (\* denotes equal contribution, = denotes student I mentor)
 
 ### Preprint
+- [Video-Based Reward Modeling for Computer-Use Agents](https://arxiv.org/abs/2603.10178)
+<br>Linxin Song, **Jieyu Zhang**, Huanxin Sheng, Taiwei Shi, Gupta Rahul, Yang Liu, Ranjay Krishna, Jian Kang, Jieyu Zhao.
+- [URDF-Anything+: Autoregressive Articulated 3D Models Generation for Physical Simulation](https://arxiv.org/abs/2603.14010)
+<br>Zhuangzhe Wu, Yue Xin, Chengkai Hou, Minghao Chen, Yaoxu Lyu, **Jieyu Zhang**, Shanghang Zhang.
 - [Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos](https://arxiv.org/abs/2602.23543)
 <br>Ziqi Gao, **Jieyu Zhang**, Wisdom Oluchi Ikezogwo, Jae Sung Park, Tario G. You, Daniel Ogbu, Chenhao Zheng, Weikai Huang, Yinuo Yang, Winson Han, Quan Kong, Rajat Saini, Ranjay Krishna.
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
