@@ -55,7 +55,7 @@ I'm happy to mentor a few students on research and especially encourage students
 
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br> <span style="background:#fef3c7; padding:2px 6px; border-radius:4px;">COLM 2024</span>
+<br> <span style="background:#f8d7da; padding:2px 6px; border-radius:4px;">COLM 2024</span>
 <br>🏆 <font color=red>Best Paper</font> *LLM Agents @ ICLR 2024* 
 <br><a href="https://www.economist.com/science-and-technology/2024/05/13/todays-ai-models-are-impressive-teams-of-them-will-be-formidable" style="text-decoration: underline">The Economist article</a> | <a href="https://www.forbes.com/sites/joannechen/2024/05/24/the-promise-of-multi-agent-ai/?sh=2c1e4f454d97" style="text-decoration: underline">The Forbes article</a>
 
