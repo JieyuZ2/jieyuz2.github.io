@@ -36,7 +36,7 @@ I'm happy to mentor a few students on research and especially encourage students
 
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
-<br> <span style="background:#ffe4e6; padding:2px 6px; border-radius:4px;">ICCV 2025</span>
+<br> <span style="background:#c8e6c9; padding:2px 6px; border-radius:4px;">ICCV 2025</span>
 <br><font color=red>Highlight</font> 
 
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
