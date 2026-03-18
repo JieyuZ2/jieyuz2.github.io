@@ -20,23 +20,23 @@ I'm happy to mentor a few students on research and especially encourage students
 - [Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611)
 <br>Christopher Clark\*, **Jieyu Zhang\***, Zixian Ma\*, Jae Sung Park, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Jason Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winston Han, Ali Farhadi, Ranjay Krishna.
 <br><a href="https://playground.allenai.org/?model=molmo2-8b&utm_source=ai2-molmo2&utm_medium=referral&utm_campaign=molmo2_launch" style="text-decoration: underline">Try it Now!</a> | <a href="https://openrouter.ai/allenai/molmo-2-8b:free" style="text-decoration: underline">Free API access!</a> | <a href="https://allenai.org/molmo" style="text-decoration: underline">Blog at AI2</a>
-<br> <span style="background:#e8f5e9; padding:2px 6px; border-radius:4px;">CVPR 2026</span>.
+<br> <span style="background:#dcfce7; padding:2px 6px; border-radius:4px;">CVPR 2026</span>
 
 - [TrajTok: Learning Trajectory Tokens Enables better Video Understanding](https://arxiv.org/abs/2602.22779)
 <br>Chenhao Zheng, **Jieyu Zhang**, Jianing Zhang, Weikai Huang, Ashutosh Kumar, Quan Kong, Oncel Tuzel, Chun-Liang Li, Ranjay Krishna.
-<br>*CVPR 2026*
+<br> <span style="background:#dcfce7; padding:2px 6px; border-radius:4px;">CVPR 2026</span>
 
 - [Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110)
 <br>Weikai Huang, **Jieyu Zhang**, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Ranjay Krishna.
-<br>*CVPR 2026*
+<br> <span style="background:#dcfce7; padding:2px 6px; border-radius:4px;">CVPR 2026</span>
 
 - [Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?](https://arxiv.org/abs/2602.07055)
 <br>Pingyue Zhang\*, Zihan Huang\*, Yue Wang\*, **Jieyu Zhang\***, Letian Xue, Zihan Wang, Qineng Wang, Keshigeyan Chandrasegaran, Ruohan Zhang, Yejin Choi, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Manling Li.
-<br>*ICLR 2026*
+<br> <span style="background:#ffedd5; padding:2px 6px; border-radius:4px;">ICLR 2026</span>
 
 - [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617)
 <br>Chenhao Zheng, **Jieyu Zhang**, Mohammadreza Salehi, Ziqi Gao, Vishnu Iyengar, Norimasa Kobori, Quan Kong, Ranjay Krishna.
-<br>*ICCV 2025*
+<br> <span style="background:#ffe4e6; padding:2px 6px; border-radius:4px;">ICCV 2025</span>
 <br><font color=red>Highlight</font> 
 
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
@@ -45,17 +45,17 @@ I'm happy to mentor a few students on research and especially encourage students
 
 - [Task Me Anything](https://arxiv.org/abs/2406.11775)
 <br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
-<br>*NeurIPS 2024*
+<br> span style="background:#fef3c7; padding:2px 6px; border-radius:4px;">NeurIPS 2024</span>
 <br> <font color=red>Oral Presentation</font> at *Video-Language Models @ NeurIPS 2024* 
 <br><a href="https://snorkel.ai/blog/task-me-anything-innovating-multimodal-model-benchmarks/" style="text-decoration: underline">Blog at Snorkel AI</a> | <a href="https://www.youtube.com/watch?v=J3ECnV8Yc_g" style="text-decoration: underline">Talk at Snorkel AI</a>
 
 - [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
 <br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
-<br>*NeurIPS 2023*
+<br> span style="background:#fef3c7; padding:2px 6px; border-radius:4px;">NeurIPS 2023</span>
 
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br>*COLM 2024*
+<br> span style="background:#fef3c7; padding:2px 6px; border-radius:4px;">COLM 2024</span>
 <br>🏆 <font color=red>Best Paper</font> *LLM Agents @ ICLR 2024* 
 <br><a href="https://www.economist.com/science-and-technology/2024/05/13/todays-ai-models-are-impressive-teams-of-them-will-be-formidable" style="text-decoration: underline">The Economist article</a> | <a href="https://www.forbes.com/sites/joannechen/2024/05/24/the-promise-of-multi-agent-ai/?sh=2c1e4f454d97" style="text-decoration: underline">The Forbes article</a>
 
