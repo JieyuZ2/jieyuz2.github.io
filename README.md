@@ -18,7 +18,7 @@ I'm happy to mentor a few students on research and especially encourage students
 
 ## 📝 Selected Research
 - [WildDet3D: Scaling Promptable 3D Detection in the Wild](https://allenai.org/papers/wilddet3d)
-Weikai Huang, Jieyu Zhang, Sijun Li, Taoyang Jia, Jiafei Duan, Yunqian Cheng, Jaemin Cho, Matthew Wallingford, Rustin Soraki, Chris Dongjoo Kim, Shuo Liu, Donovan Clay, Taira Anderson, Winson Han, Ali Farhadi, Bharath Hariharan, Zhongzheng Ren, Ranjay Krishna.
+<br>Weikai Huang, **Jieyu Zhang**, Sijun Li, Taoyang Jia, Jiafei Duan, Yunqian Cheng, Jaemin Cho, Matthew Wallingford, Rustin Soraki, Chris Dongjoo Kim, Shuo Liu, Donovan Clay, Taira Anderson, Winson Han, Ali Farhadi, Bharath Hariharan, Zhongzheng Ren, Ranjay Krishna.
 <br><a href="https://huggingface.co/spaces/allenai/WildDet3D" style="text-decoration: underline">Try it Now!</a> | <a href="https://allenai.org/blog/wilddet3d" style="text-decoration: underline">Blog at AI2</a>
 
 - [Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611)
