@@ -24,7 +24,7 @@ I'm happy to mentor a few students on research and especially encourage students
 - [Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611)
 <br>Christopher Clark\*, **Jieyu Zhang\***, Zixian Ma\*, Jae Sung Park\*, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Jason Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winston Han, Ali Farhadi, Ranjay Krishna.
 <br><a href="https://playground.allenai.org/?model=molmo2-8b&utm_source=ai2-molmo2&utm_medium=referral&utm_campaign=molmo2_launch" style="text-decoration: underline">Try it Now!</a> | <a href="https://allenai.org/molmo" style="text-decoration: underline">Blog at AI2</a>
-<br> <span style="background:#dcfce7; padding:2px 6px; border-radius:4px;">CVPR 2026</span> <font color=red>Oral</font>
+<br> <span style="background:#dcfce7; padding:2px 6px; border-radius:4px;">CVPR 2026</span> <font color=red>Oral Presentation</font>
 
 - [TrajTok: Learning Trajectory Tokens Enables better Video Understanding](https://arxiv.org/abs/2602.22779)
 <br>Chenhao Zheng, **Jieyu Zhang**, Jianing Zhang, Weikai Huang, Ashutosh Kumar, Quan Kong, Oncel Tuzel, Chun-Liang Li, Ranjay Krishna.
