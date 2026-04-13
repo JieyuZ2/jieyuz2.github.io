@@ -17,7 +17,7 @@ I'm happy to mentor a few students on research and especially encourage students
 
 
 ## 📝 Selected Research
-- [WildDet3D: Scaling Promptable 3D Detection in the Wild](https://allenai.org/papers/wilddet3d)
+- [WildDet3D: Scaling Promptable 3D Detection in the Wild](https://arxiv.org/abs/2604.08626)
 <br>Weikai Huang, **Jieyu Zhang**, Sijun Li, Taoyang Jia, Jiafei Duan, Yunqian Cheng, Jaemin Cho, Matthew Wallingford, Rustin Soraki, Chris Dongjoo Kim, Shuo Liu, Donovan Clay, Taira Anderson, Winson Han, Ali Farhadi, Bharath Hariharan, Zhongzheng Ren, Ranjay Krishna.
 <br><a href="https://huggingface.co/spaces/allenai/WildDet3D" style="text-decoration: underline">Try it Now!</a> | <a href="https://allenai.org/blog/wilddet3d" style="text-decoration: underline">Blog at AI2</a>
 
