@@ -2,6 +2,8 @@ I'm a final year Ph.D. student in Computer Science at the University of Washingt
 
 I study **grounded vision-language models** — building AI models/systems that connect perception, language, and physical reality. More broadly, I am interested in how models can form rich, robust, and structured connections across modalities, which I view as fundamental to enabling AI that can perceive, follow instructions, and interact with the world—and, more generally, to intelligence itself.
 
+****
+
 My research is supported by the following fellowships:
 - [2024 Apple AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) (Data-centric AI track)
 - [OpenAI Superalignment Fellowship](https://openai.com/blog/superalignment-fast-grants)
