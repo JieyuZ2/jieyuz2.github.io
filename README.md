@@ -80,7 +80,7 @@ I'm happy to mentor a few students on research and especially encourage students
 
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
-<br> <span style="background:#fef3c7; padding:2px 6px; border-radius:4px;">NeurIPS 2022</span>  <font color=red>Oral Presentation</font>
+<br> <span style="background:#fef3c7; padding:2px 6px; border-radius:4px;">NeurIPS 2021</span>  <font color=red>Oral Presentation</font>
 
 ## 🏅 Awards
 - ML and Systems Rising Stars
