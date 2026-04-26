@@ -318,11 +318,13 @@ footer {
 }
 
 .intro-block {
-  background: linear-gradient(90deg, #f5faff 0%, #ffffff 100%);
-  border-left: 4px solid #267CB9;
-  padding: 14px 18px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #eef7ff;
+  padding: 16px 20px;
   margin: 24px 0 20px;
-  border-radius: 10px;
+  border-radius: 0;
   color: #555;
   line-height: 1.55;
 }
