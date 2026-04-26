@@ -1,6 +1,8 @@
 I'm a final year Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
-I study **grounded vision-language models** — building AI models/systems that connect perception, language, and physical reality. More broadly, I am interested in how models can form rich, robust, and structured connections across modalities, which I view as fundamental to enabling AI that can perceive, follow instructions, and interact with the world—and, more generally, to intelligence itself.
+<div class="intro-block">
+I study <strong>grounded vision-language models</strong> — building AI models/systems that connect perception, language, and physical reality. More broadly, I am interested in how models can form rich, robust, and structured connections across modalities, which I view as fundamental to enabling AI that can perceive, follow instructions, and interact with the world—and, more generally, to intelligence itself.
+</div>
 
 ****
 
