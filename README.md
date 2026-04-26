@@ -51,14 +51,10 @@ I'm happy to mentor a few students on research and especially encourage students
 <br><a href="https://www.salesforce.com/blog/provision-multimodal-data-generation/" style="text-decoration: underline">Blog at Salesforce Research</a> | <a href="https://venturebeat.com/data-infrastructure/breaking-the-data-bottleneck-salesforces-provision-speeds-multimodal-ai-training-with-image-scene-graphs/" style="text-decoration: underline">VentureBeat</a> | <a href="https://www.marktechpost.com/2025/01/11/provision-a-scalable-programmatic-approach-to-vision-centric-instruction-data-for-multimodal-language-models/" style="text-decoration: underline">MarkTechPost</a>
 
 - [Task Me Anything](https://arxiv.org/abs/2406.11775)
-<br>**Jieyu Zhang**, Weikai Huang\*, Zixian Ma\*, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
+<br>**Jieyu Zhang**, Weikai Huang, Zixian Ma, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna.
 <br> <span style="background:#fef3c7; padding:2px 6px; border-radius:4px;">NeurIPS 2024</span>
 <br> <font color=red>Oral Presentation</font> at *Video-Language Models @ NeurIPS 2024* 
 <br><a href="https://snorkel.ai/blog/task-me-anything-innovating-multimodal-model-benchmarks/" style="text-decoration: underline">Blog at Snorkel AI</a> | <a href="https://www.youtube.com/watch?v=J3ECnV8Yc_g" style="text-decoration: underline">Talk at Snorkel AI</a>
-
-- [Subclass-balancing Contrastive Learning for Long-tailed Recognition](https://arxiv.org/abs/2306.15925)
-<br>Chengkai Hou=, **Jieyu Zhang**, Haonan Wang, Tianyi Zhou.
-<br> <span style="background:#c8e6c9; padding:2px 6px; border-radius:4px;">ICCV 2023</span>
 
 - [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
 <br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
