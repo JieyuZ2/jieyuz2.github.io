@@ -1,7 +1,5 @@
 ## Mentees
 
-<h1>Mentees</h1>
-
 <p class="mentoring-intro">
 I have been fortunate to work with many junior students and am grateful to have seen them grow into exciting opportunities in graduate school and industry.
 </p>
