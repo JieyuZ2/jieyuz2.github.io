@@ -328,3 +328,28 @@ footer {
   color: #555;
   line-height: 1.55;
 }
+
+.mentee-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 10px;
+  max-width: 620px;
+}
+
+.mentee-list li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.mentee-name {
+  display: block;
+  font-weight: 500;
+  color: #333;
+}
+
+.mentee-note {
+  display: block;
+  color: #777;
+  font-size: 14px;
+  margin-top: 2px;
+}
