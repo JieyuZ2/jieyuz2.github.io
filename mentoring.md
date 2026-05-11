@@ -9,11 +9,12 @@ I have been fortunate to work with many junior students and am grateful to have 
 
   <li>
     <span class="mentee-name">Weikai Huang</span>
+    <span class="mentee-note">Undergrad @ UW  → PhD @ UW</span>
   </li>
 
   <li>
     <span class="mentee-name">Ziqi Gao</span>
-    <span class="mentee-note">MS @ UW → PYI @ AI2</span>
+    <span class="mentee-note">MS @ UW → PYI @ AI2 → PhD @ UW</span>
   </li>
 
   <li>
