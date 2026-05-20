@@ -98,7 +98,7 @@
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang.
 <br>*ICML 2024*
 <br><a href="https://www.nature.com/articles/d41586-023-03507-3" style="color: red; text-decoration: underline">Nature News Feature</a>
-- [Iterated Learning Improves Compositionality in Large Vision-Language Models]()
+- [Iterated Learning Improves Compositionality in Large Vision-Language Models](https://arxiv.org/abs/2404.02145)
 <br>Chenhao Zheng=, **Jieyu Zhang**, Aniruddha Kembhavi, Ranjay Krishna.
 <br>*CVPR 2024*.
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
