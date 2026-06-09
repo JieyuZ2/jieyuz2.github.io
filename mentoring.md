@@ -10,6 +10,7 @@ I have been fortunate to work with many junior students and am grateful to have 
   <li>
     <span class="mentee-name">Weikai Huang</span>
     <span class="mentee-note">Undergrad @ UW  → PhD @ UW</span>
+    <span class="mentee-note">UW Outstanding Allen school senior award</span>
   </li>
 
   <li>
