@@ -30,11 +30,11 @@ I'm happy to mentor a few students on research and especially encourage students
 
 - [Extracting Large-scale Spatio-Temporal Scene Graphs from Videos](https://arxiv.org/abs/2602.23543)
 <br>Ziqi Gao, **Jieyu Zhang**, Wisdom Oluchi Ikezogwo, Jae Sung Park, Tario G. You, Daniel Ogbu, Chenhao Zheng, Weikai Huang, Yinuo Yang, Winson Han, Quan Kong, Rajat Saini, Ranjay Krishna.
-<br> <span style="background:#bbf7d0; padding:2px 6px; border-radius:4px;">ECCV 2026</span>
+<br> <span style="background:#d1fae5; padding:2px 6px; border-radius:4px;">ECCV 2026</span>
 
 - [Video-Based Reward Modeling for Computer-Use Agents](https://arxiv.org/abs/2603.10178)
 <br>Linxin Song, **Jieyu Zhang**, Huanxin Sheng, Taiwei Shi, Gupta Rahul, Yang Liu, Ranjay Krishna, Jian Kang, Jieyu Zhao.
-<br> <span style="background:#bbf7d0; padding:2px 6px; border-radius:4px;">ECCV 2026</span>
+<br> <span style="background:#d1fae5; padding:2px 6px; border-radius:4px;">ECCV 2026</span>
 
 - [Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611)
 <br>Christopher Clark\*, **Jieyu Zhang\***, Zixian Ma\*, Jae Sung Park\*, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Jason Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winston Han, Ali Farhadi, Ranjay Krishna.
