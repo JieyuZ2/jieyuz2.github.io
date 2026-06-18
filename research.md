@@ -19,7 +19,7 @@
 <br>Christopher Clark, Yue Yang, Jae Sung Park, Zixian Ma, **Jieyu Zhang**, Rohun Tripathi, Mohammadreza Salehi, Sangho Lee, Taira Anderson, Winson Han, Ranjay Krishna.
 <br>*ECCV 2026*
 - [Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models](https://arxiv.org/abs/2606.03988)
-<br>Mahtab Bigverdi*, Linjie Li*, Weikai Huang*, Yiming Liu, Jaemin Cho, **Jieyu Zhang**, Tuhin Kundu, Chris Dongjoo Kim, Zelun Luo, Linda Shapiro, Ranjay Krishna.
+<br>Mahtab Bigverdi\*, Linjie Li\*, Weikai Huang\*, Yiming Liu, Jaemin Cho, **Jieyu Zhang**, Tuhin Kundu, Chris Dongjoo Kim, Zelun Luo, Linda Shapiro, Ranjay Krishna.
 <br>*ECCV 2026*
 - [Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611)
 <br>Christopher Clark\*, **Jieyu Zhang\***, Zixian Ma\*, Jae Sung Park, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Jason Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winston Han, Ali Farhadi, Ranjay Krishna.
