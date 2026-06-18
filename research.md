@@ -1,21 +1,29 @@
 (\* denotes equal contribution, = denotes student I mentor)
 
 ### Preprint
-- [Video-Based Reward Modeling for Computer-Use Agents](https://arxiv.org/abs/2603.10178)
-<br>Linxin Song, **Jieyu Zhang**, Huanxin Sheng, Taiwei Shi, Gupta Rahul, Yang Liu, Ranjay Krishna, Jian Kang, Jieyu Zhao.
 - [URDF-Anything+: Autoregressive Articulated 3D Models Generation for Physical Simulation](https://arxiv.org/abs/2603.14010)
 <br>Zhuangzhe Wu, Yue Xin, Chengkai Hou, Minghao Chen, Yaoxu Lyu, **Jieyu Zhang**, Shanghang Zhang.
-- [Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos](https://arxiv.org/abs/2602.23543)
-<br>Ziqi Gao, **Jieyu Zhang**, Wisdom Oluchi Ikezogwo, Jae Sung Park, Tario G. You, Daniel Ogbu, Chenhao Zheng, Weikai Huang, Yinuo Yang, Winson Han, Quan Kong, Rajat Saini, Ranjay Krishna.
 - [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
 <br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
 
 ****
 
 ### 2026
+- [Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos](https://arxiv.org/abs/2602.23543)
+<br>Ziqi Gao, **Jieyu Zhang**, Wisdom Oluchi Ikezogwo, Jae Sung Park, Tario G. You, Daniel Ogbu, Chenhao Zheng, Weikai Huang, Yinuo Yang, Winson Han, Quan Kong, Rajat Saini, Ranjay Krishna.
+<br>*ECCV 2026*
+- [Video-Based Reward Modeling for Computer-Use Agents](https://arxiv.org/abs/2603.10178)
+<br>Linxin Song, **Jieyu Zhang**, Huanxin Sheng, Taiwei Shi, Gupta Rahul, Yang Liu, Ranjay Krishna, Jian Kang, Jieyu Zhao.
+<br>*ECCV 2026*
+- [MolmoPoint: Better Pointing for VLMs with Grounding Tokens](https://arxiv.org/abs/2603.28069)
+<br>Christopher Clark, Yue Yang, Jae Sung Park, Zixian Ma, **Jieyu Zhang**, Rohun Tripathi, Mohammadreza Salehi, Sangho Lee, Taira Anderson, Winson Han, Ranjay Krishna.
+<br>*ECCV 2026*
+- [Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models](https://arxiv.org/abs/2606.03988)
+<br>Mahtab Bigverdi*, Linjie Li*, Weikai Huang*, Yiming Liu, Jaemin Cho, **Jieyu Zhang**, Tuhin Kundu, Chris Dongjoo Kim, Zelun Luo, Linda Shapiro, Ranjay Krishna.
+<br>*ECCV 2026*
 - [Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611)
 <br>Christopher Clark\*, **Jieyu Zhang\***, Zixian Ma\*, Jae Sung Park, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Jason Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winston Han, Ali Farhadi, Ranjay Krishna.
-<br><font color=red>Oral Presentation</font> *CVPR 2026*
+<br><font color=red>Oral Presentation / Award Candidate / Compute Transparency Champion</font> *CVPR 2026*
 - [TrajTok: Learning Trajectory Tokens Enables better Video Understanding](https://arxiv.org/abs/2602.22779)
 <br>Chenhao Zheng, **Jieyu Zhang**, Jianing Zhang, Weikai Huang, Ashutosh Kumar, Quan Kong, Oncel Tuzel, Chun-Liang Li, Ranjay Krishna.
 <br>*CVPR 2026*
