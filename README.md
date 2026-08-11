@@ -21,7 +21,7 @@ I'm happy to mentor a few students on research and especially encourage students
 
 
 ## 📝 Selected Research
-- [Vision-Language Grounding as Bidirectional Concept Correspondence]()
+- [Vision-Language Grounding as Bidirectional Concept Correspondence](https://arxiv.org/abs/2608.07886)
 <br>**Jieyu Zhang\***, Ziqi Gao\*, Luke Zettlemoyer, Ranjay Krishna.
 
 - [WildDet3D: Scaling Promptable 3D Detection in the Wild](https://arxiv.org/abs/2604.08626)
