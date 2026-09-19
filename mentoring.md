@@ -4,9 +4,11 @@ I have been fortunate to work with many junior students and am grateful to have 
 
 <ul class="mentee-list">
   <li>
+    <span class="mentee-name">Surya Duraivenkatesh</span>
+  </li>
+  <li>
     <span class="mentee-name">Daniel Ogbu</span>
   </li>
-
   <li>
     <span class="mentee-name">Weikai Huang</span>
     <span class="mentee-note">Undergrad @ UW  → PhD @ UW</span>
