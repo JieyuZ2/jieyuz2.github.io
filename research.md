@@ -7,7 +7,7 @@
 <br>**Jieyu Zhang\***, Ziqi Gao\*, Luke Zettlemoyer, Ranjay Krishna.
 <br>*NeurIPS 2026*
 - [MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction](https://arxiv.org/abs/2606.18558)
-<br>Jianing Zhang, Chenhao Zheng, Yajun Yang, Rustin Soraki, Winson Han, Chun-Liang Li, Jason Ren, Max Argus, **Jieyu Zhang**, Ranjay Krishna.
+<br>Jianing Zhang\*, Chenhao Zheng\*, Yajun Yang, Rustin Soraki, Winson Han, Chun-Liang Li, Jason Ren, Max Argus, **Jieyu Zhang**, Ranjay Krishna.
 <br><font color=red>Spotlight</font> *NeurIPS 2026*
 - [URDF-Anything+: Autoregressive Articulated 3D Models Generation for Physical Simulation](https://arxiv.org/abs/2603.14010)
 <br>Zhuangzhe Wu, Yue Xin, Chengkai Hou, Minghao Chen, Yaoxu Lyu, **Jieyu Zhang**, Shanghang Zhang.
