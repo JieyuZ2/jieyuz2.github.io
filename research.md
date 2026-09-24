@@ -1,14 +1,17 @@
 (\* denotes equal contribution, = denotes student I mentor)
 
-### Preprint
-- [URDF-Anything+: Autoregressive Articulated 3D Models Generation for Physical Simulation](https://arxiv.org/abs/2603.14010)
-<br>Zhuangzhe Wu, Yue Xin, Chengkai Hou, Minghao Chen, Yaoxu Lyu, **Jieyu Zhang**, Shanghang Zhang.
-- [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
-<br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
-
 ****
 
 ### 2026
+- [Vision-Language Grounding as Bidirectional Concept Correspondence](https://arxiv.org/abs/2608.07886)
+<br>**Jieyu Zhang\***, Ziqi Gao\*, Luke Zettlemoyer, Ranjay Krishna.
+<br>*NeurIPS 2026*
+- [MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction](https://arxiv.org/abs/2606.18558)
+<br>Jianing Zhang, Chenhao Zheng, Yajun Yang, Rustin Soraki, Winson Han, Chun-Liang Li, Jason Ren, Max Argus, **Jieyu Zhang**, Ranjay Krishna.
+<br><font color=red>Spotlight</font> *NeurIPS 2026*
+- [URDF-Anything+: Autoregressive Articulated 3D Models Generation for Physical Simulation](https://arxiv.org/abs/2603.14010)
+<br>Zhuangzhe Wu, Yue Xin, Chengkai Hou, Minghao Chen, Yaoxu Lyu, **Jieyu Zhang**, Shanghang Zhang.
+<br>*NeurIPS 2026*
 - [Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos](https://arxiv.org/abs/2602.23543)
 <br>Ziqi Gao, **Jieyu Zhang**, Wisdom Oluchi Ikezogwo, Jae Sung Park, Tario G. You, Daniel Ogbu, Chenhao Zheng, Weikai Huang, Yinuo Yang, Winson Han, Quan Kong, Rajat Saini, Ranjay Krishna.
 <br>*ECCV 2026*
@@ -59,7 +62,8 @@
 ****
 
 ### 2025
-
+- [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](http://arxiv.org/abs/2412.07012)
+<br>**Jieyu Zhang**, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu.
 - [URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model](https://arxiv.org/pdf/2511.00940)
 <br>Zhe Li\*, Xiang Bai\*, **Jieyu Zhang**, Zhuangzhe Wu, Che Xu, Ying Li, Chengkai Hou, Shanghang Zhang.
 <br><font color=red>Spotlight</font> *NeurIPS 2025*  
