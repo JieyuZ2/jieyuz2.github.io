@@ -23,6 +23,11 @@ I'm happy to mentor a few students on research and especially encourage students
 ## 📝 Selected Research
 - [Vision-Language Grounding as Bidirectional Concept Correspondence](https://arxiv.org/abs/2608.07886)
 <br>**Jieyu Zhang\***, Ziqi Gao\*, Luke Zettlemoyer, Ranjay Krishna.
+<br> <span style="background:#fef3c7; padding:2px 6px; border-radius:4px;">NeurIPS 2026</span>
+
+- [MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction](https://arxiv.org/abs/2606.18558)
+<br>Jianing Zhang, Chenhao Zheng, Yajun Yang, Rustin Soraki, Winson Han, Chun-Liang Li, Jason Ren, Max Argus, **Jieyu Zhang**, Ranjay Krishna.
+<br> <span style="background:#fef3c7; padding:2px 6px; border-radius:4px;">NeurIPS 2026</span> <font color=red>Spotlight</font>
 
 - [WildDet3D: Scaling Promptable 3D Detection in the Wild](https://arxiv.org/abs/2604.08626)
 <br>Weikai Huang, **Jieyu Zhang**, Sijun Li, Taoyang Jia, Jiafei Duan, Yunqian Cheng, Jaemin Cho, Matthew Wallingford, Rustin Soraki, Chris Dongjoo Kim, Shuo Liu, Donovan Clay, Taira Anderson, Winson Han, Ali Farhadi, Bharath Hariharan, Zhongzheng Ren, Ranjay Krishna.
