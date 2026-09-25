@@ -50,10 +50,6 @@ I'm happy to mentor a few students on research and especially encourage students
 <br>Chenhao Zheng, **Jieyu Zhang**, Jianing Zhang, Weikai Huang, Ashutosh Kumar, Quan Kong, Oncel Tuzel, Chun-Liang Li, Ranjay Krishna.
 <br> <span style="background:#dcfce7; padding:2px 6px; border-radius:4px;">CVPR 2026</span>
 
-- [Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110)
-<br>Weikai Huang, **Jieyu Zhang**, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Ranjay Krishna.
-<br> <span style="background:#dcfce7; padding:2px 6px; border-radius:4px;">CVPR 2026</span>
-
 - [Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?](https://arxiv.org/abs/2602.07055)
 <br>Pingyue Zhang\*, Zihan Huang\*, Yue Wang\*, **Jieyu Zhang\***, Letian Xue, Zihan Wang, Qineng Wang, Keshigeyan Chandrasegaran, Ruohan Zhang, Yejin Choi, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Manling Li.
 <br> <span style="background:#ffedd5; padding:2px 6px; border-radius:4px;">ICLR 2026</span>
